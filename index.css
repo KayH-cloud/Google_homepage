@@ -1,0 +1,41 @@
+.navi {
+float: right;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    margin: 0;
+}
+
+a {
+display: block;
+padding:20px;
+}
+
+img {
+display: block;
+margin-top: 120px;
+margin: auto;
+}
+
+input {
+    display: block;
+    margin: auto;
+}
+
+button {
+    display: block;
+    margin: auto;
+}
+
+footer {
+    display: inline;
+    margin: 0;
+}
